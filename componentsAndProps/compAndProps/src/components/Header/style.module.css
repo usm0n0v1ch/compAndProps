@@ -1,0 +1,25 @@
+.header {
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+  }
+  
+  .logoAndNav {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .title {
+    font-size: 24px;
+  }
+  
+  .nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .contactInfo {
+    margin-top: 10px;
+  }
+  

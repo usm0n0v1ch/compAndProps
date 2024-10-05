@@ -1,0 +1,16 @@
+.footer {
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+  }
+  
+  .socialMedia {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .socialMedia li {
+    display: inline;
+    margin-right: 10px;
+  }
+  

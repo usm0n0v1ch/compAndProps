@@ -1,0 +1,18 @@
+.bookCards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .bookCard {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    width: 200px;
+  }
+  
+  .bookCard img {
+    width: 100%;
+    height: auto;
+  }
+  
